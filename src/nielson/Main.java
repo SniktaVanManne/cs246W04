@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello, my name is Ryan");
 	System.out.println("Hey guys, don't forget to pull! :)" );
+	System.out.println("Hi Ryan, my name is Alexandre, nice to meet you!");
     }
 }
